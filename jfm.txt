@@ -1,0 +1,59 @@
+ALL PAGES
+	Nav bar (categories,search, logo)
+	Footer (social icons?, category breadcrumbs, some contact info ect.)
+
+
+MAIN HOME PAGE
+	Carrousel with 3 most popular/newest/demanded articles (full width)
+	Newest article area (load more button)
+	Popular articles (by views/by rating)
+ 
+	Newsletter subscription area
+	JFM ads
+
+
+VIEW ARTICLE PAGE
+	The article itself (title,description,tags(maybe),text/images ect)
+	Newsletter subscription area (maybe?)
+	Comment system (FB - under the article)
+	Recommendations area (find other articles by similar tags)
+	Rating system for the article
+
+
+ADD ARTICLE
+	Title field
+	Description Field
+	Tags field
+	Choose category dropdown
+	Article thumbnail upload field (large,medium,small)
+	Article field
+		-> text editing interface (e.g. bold-text/colors/size ect.)
+		-> add picture (+ picture positioning interface ect.)
+		-> section breaks
+		-> add video (youtube/vimeo/local device)
+		-> text area
+
+USER PROFILE PAGE 
+	Name, surname, email (required), password (required), phone number??, maybe address
+	Profile picture?	
+	Post count
+	Rating count?
+	Rank - newbie, reader, professional ect (1 article comment/rating = 1 point)
+	
+
+
+
+Other:
+	google analytics
+	user history API
+	Admin profile page -
+
+	User normal info from the user profile page
+	Last active(days/hours/seconds ago)
+	
+	Activity history
+		-articles viewed
+		-session time
+		-navigation
+		
+	
